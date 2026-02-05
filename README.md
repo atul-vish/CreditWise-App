@@ -6,23 +6,15 @@ The project demonstrates real-world credit risk analysis, robust data preprocess
 🔗 Live App: https://creditwiseloan.streamlit.app/
 
 🚀 Key Features
-
 ✅ Interactive Streamlit web application
-
 🧠 Logistic Regression for binary classification
-
 🧹 Robust data preprocessing
-
 Missing value handling
-
 One-Hot Encoding
-
 Feature scaling
 
 🛡️ Production-safe inference
-
 Feature alignment
-
 Handling unseen categories
 
 📊 Dataset preview and real-time predictions
@@ -30,51 +22,31 @@ Handling unseen categories
 ☁️ Deployed on Streamlit Cloud
 
 🧠 Machine Learning Workflow
-
 Data cleaning and validation
-
 Feature–target separation
-
 Imputation, encoding & scaling
-
 Model training using Logistic Regression
-
 Real-time prediction through UI
 
 🛠️ Tech Stack
-
 Python
-
 Streamlit
-
 Pandas, NumPy
-
 Scikit-learn
-
 Machine Learning
-
 Data Preprocessing
-
 Model Deployment
 
 🎯 Use Cases
-
 Fintech & banking ML systems
-
 Credit risk modeling
-
 Academic & portfolio projects
-
 End-to-end ML deployment demonstration
 
 🔮 Future Enhancements
-
-Model performance metrics (Accuracy, Confusion Matrix)
-
+Model performance Metrics (Accuracy, Confusion Matrix)
 Multiple ML model comparison
-
 Model persistence using joblib
-
 Cloud-ready ML pipeline
 
 👤 Author: Atul Vishwakarma
