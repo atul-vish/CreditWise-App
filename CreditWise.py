@@ -143,7 +143,7 @@ if page == "Loan Prediction":
         input_scaled = scaler.transform(input_final)
         prediction = model.predict(input_scaled)[0]
 
-        if prediction == 1:
+        if prediction == 0.80:
             st.success("✅ Loan Approved")
         else:
             st.error("❌ Loan Rejected")
